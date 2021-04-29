@@ -1,0 +1,17 @@
+.section {
+  background-image: url(./images/atackOn.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.seccion2 {
+  background-image: url("./images/bg2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.seccion3 {
+  background-image: url("./images/bg6.jpg");
+  background-position: top right;
+  background-repeat: no-repeat;
+}
